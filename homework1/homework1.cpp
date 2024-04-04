@@ -37,8 +37,8 @@ string division(string num1, string num2) {
 
 int main()
 {
-    string num1 = "1100011";
-    string num2 = "1010010";
+    string num1 = "1010000";
+    string num2 = "1001111";
 
     cout << "Addition: " << addition(num1, num2) << endl;
     cout << "Subtraction: " << subtraction(num1, num2) << endl;
